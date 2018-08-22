@@ -1,0 +1,19 @@
+.header {
+    width: 200px;
+    margin: 222px auto 55px auto;
+}
+.photos {
+    display: inline-box;
+    width: 610px;
+    margin: 0px auto;
+}
+.horizontalMenu {
+    width: 610px;
+    margin: 33px auto 0px auto;
+}
+span {
+    text-align: right;
+}
+li {
+    display: inline;
+}
